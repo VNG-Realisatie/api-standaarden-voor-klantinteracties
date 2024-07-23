@@ -35,4 +35,4 @@ De changelog van deze API-Specificatie is te [hier](./klantinteracties_CRUD/CRUD
 In samenwerking met een aantal koplopergemeenten wordt verkend wat de beste wijze is om het beheer van referentielijsten in te richten. 
 In dat kader is er een API-specificatie voor het beheren en raadplegen van referentielijsten opgesteld. 
 
-De specificatie kan worden bekeken in [Swagger](./klantinteracties_referentelijsten/swagger-ui.md) of in [Redoc](./klantinteracties_referentielijsten/redoc.md).
+De specificatie kan worden bekeken in [Swagger](./klantinteracties_referentielijsten/swagger-ui.md) of in [Redoc](./klantinteracties_referentielijsten/redoc.md).
