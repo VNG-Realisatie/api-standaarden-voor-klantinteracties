@@ -29,9 +29,9 @@ nav:
         path: /informatiemodel/gegevenswoordenboek
   - title: API-familie Klantinteractie
     subnav:
-      - title: Specificatie Klantinteracties
+      - title: Verkenning specificaties
         path: /api_familie_klantinteracties/klantinteracties
-  - title: Achtergrond documentatie
+  - title: Achtergronddocumentatie
     subnav: 
       - title: Uitgangspunten
         path: /achtergronddocumentatie/uitgangspunten

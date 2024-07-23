@@ -9,6 +9,12 @@ spec-url: https://raw.githubusercontent.com/VNG-Realisatie/klantinteracties/main
 
 Hier worden artefacten gepubliceerd die horen bij het ontwikkelproject van de API-standaarden voor Klantinteracties.
 
+## Ontwikkeling gestopt
+
+De op deze website gepubliceerde klantinteracties-materialen werden ontwikkeld als onderdeel van een onderzoekstraject naar nieuwe patronen voor API-specificaties. Het was de bedoeling dit traject af te ronden met een praktijkbeproeving van deze patronen aan de hand van de klantinteracties-casus. Uiteindelijk bleek het voor zo'n toets in praktijkomstandigheden te vroeg.
+
+Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository])(https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
+
 ## Online toelichting Klantinteracties 23 juni 2022
 
 Op 23 juni 2022 is tijdens de 'Week van de dienstverlening' een korte toelichting gegeven bij de ontwikkelingen rondom de API-standaarden voor Klantinteracties.
