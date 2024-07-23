@@ -1,25 +1,25 @@
 # Klantinteracties
 
-### Status: in ontwikkeling
+## Geen standaard
 
-Deze pagina's documenteren standaardisatiewerk binnen het domein klantinteracties. Een concept-informatiemodel met toelichting daarbij is ondertussen beschikbaar. Een eerste set toepasbare API-specificaties wordt later in 2023 verwacht. Deze set zal beproefd worden voordat een standaard voor vaststelling wordt aangeboden.
+De materialen in deze repository deze website zijn **niet** als standaard vastgesteld. Het is dus niet aanbevolen of verplicht ze te gebruiken.
 
-Alle (concept)documentatie is gepubliceerd op [de Github Pages-site voor klantinteracties](https://vng-realisatie.github.io/klantinteracties)
+## Vrij te gebruiken halfproduct
 
-Benieuwd naar de stand van zaken? Bekijk de [presentatie bij de zomerupdate van 6 juli](./assets/project/20230706-zomerupdate-ontwikkeling-standaard-voor-klantinteracties.pdf).
+De op deze website gepubliceerde klantinteractiesmaterialen werden ontwikkeld als onderdeel van een onderzoekstraject naar nieuwe patronen voor API-specificaties. Het was de bedoeling dit traject af te ronden met een praktijkbeproeving van deze patronen aan de hand van de klantinteracties-casus. Uiteindelijk bleek het voor zo'n toets in praktijkomstandigheden te vroeg.
 
-Verder terugkijken? Ook [deel 1](./assets/project/20230420-toelichting-inzichten-klantinteracties-deel-1.pdf) en [deel 2](./assets/project/20230420-toelichting-inzichten-klantinteracties-deel-2.pdf) de tijdens ontwikkelbijeenkomst op donderdag 20 april getoonde presentatie zijn nog beschikbaar. Maar let op: deze documenten beschrijven deels inzichten en uitgangspunten die door voortschrijdend inzicht zijn ingehaald.
+Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en op de [GitHub-pages website](https://vng-realisatie.github.io/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
 
-### Bijdragen aan ontwikkeling
+Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versie-aanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
 
-Gemeenten en hun leveranciers worden uitgenodigd om bij te dragen aan deze ontwikkeling. Onderstaande links geven informatie over hoe die bijdrage geleverd kan worden.
-- Hoe u kunt [bijdragen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CONTRIBUTING.md)
-- [Omgangsvormen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CODE_OF_CONDUCT.md)
+1. Het [semantisch informatiemodel](./informatiemodel/semantisch_model.md) is ontstaan naar aanleiding van discussie met verschillende gemeenten en leveranciers en in een aantal iteraties verbeterd. Hoewel het model niet in productieomstandigheden is beproefd, denken we dat dit het als basis voor verdere ontwikkelingen bruikbaar is.
+2. Ondersteunde documentatie ([basisterminologie](./basisterminologie.md), [uitgangspunten](./achtergronddocumentatie/uitgangspunten.md), [Casussen](./achtergronddocumentatie/cases.md), [functies](./achtergronddocumentatie/functies.md) en [vragen en besluiten](./achtergronddocumentatie/Vragen%20en%20besluiten.md)) is zoveel mogelijk consistent met het informatiemodel.
+3. De [API-specificaties](./api_familie_klantinteracties/klantinteracties.md) zijn gemaakt om te laten zien hoe het model volgens verschillende API-ontwerppatronen naar specificaties zou kunnen worden vertaald. Deze specificaties zijn *niet* ontwikkeld voor praktijkgebruik, en kunnen dus *alleen* gebruikt worden als inspiratiebron.
 
 ## Beheer en ondersteuning
 
-Contact: [standaarden.ondersteuning@vng.nl](mailto:standaarden.ondersteuning@vng.nl)
+De materialen op deze website worden niet beheerd. Verzoeken voor nieuwe functionaliteit worden daarom niet behandeld. Mail bij vragen over gepubliceerd materiaal naar [standaarden.ondersteuning@vng.nl](mailto:standaarden.ondersteuning@vng.nl).
 
 ## Licentie
 
-Copyright &copy; VNG Realisatie 2023
+Copyright &copy; VNG Realisatie 2024. Licensed under the [EUPL](https://eupl.eu/1.2/en/).
