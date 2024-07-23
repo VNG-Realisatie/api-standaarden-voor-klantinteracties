@@ -41,7 +41,7 @@ Voor het oplossen van de problemen bij levering van gegevens was gedacht aan inf
 
 De hierboven beschreven oplossingsrichtingen betekenen nadrukkelijk dat het de bedoeling was in het informatiemodel 'geabstraheerde' concepten voor de buitenwereld op in een meer concrete vorm zichtbaar te maken. Om redenen van bondigheid, flexibel gebruik en (model)stabiliteit extreem generiek beschreven objecttype als 'digitaal adres' zou in een API-interface dus 'gewoon' als telefoonnummer of e-mailadres gepresenteerd kunnen worden. Hetzelfde geldt voor concepten als 'productaanvraag' of 'verzoek', waarvoor in een interface niet zichtbaar hoeft te zijn dat ze als klantcontact met één of meerdere bijlagen gepersisteerd worden. De afbeelding hieronder laat de niet helemaal afgelopen route zien van concrete, (doel)specifieke en veranderlijke use cases via een abstract, generiek en stabiel informatiemodel naar weer concrete, (doel)specifieke en veranderlijke API-specificaties.
 
-<img src="./assets/ontwikkelvoornemen-klantinteracties.png" alt="Voornemen voor ontwikkeling Klantinteracties met indicatie waar ontwikkeling is gestopt." width="100%"/>
+<img src="./assets/ontwikkelvoornemen-klantinteracties.png" alt="Voornemen voor ontwikkeling Klantinteracties met indicatie waar ontwikkeling is gestopt." width="70%"/>
 
 ## Beheer en ondersteuning
 
