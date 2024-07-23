@@ -16,7 +16,7 @@ De op deze website gepubliceerde klantinteractiesmaterialen werden ontwikkeld al
 
 Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository](https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
 
-Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versie-aanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
+Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versieaanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
 
 1. Het [semantisch informatiemodel](./informatiemodel/semantisch_model.md) is ontstaan naar aanleiding van discussie met verschillende gemeenten en leveranciers en in een aantal iteraties verbeterd. Hoewel het model niet in productieomstandigheden is beproefd, denken we dat dit het als basis voor verdere ontwikkelingen bruikbaar is.
 2. Ondersteunde documentatie ([basisterminologie](./basisterminologie.md), [uitgangspunten](./achtergronddocumentatie/uitgangspunten.md), [Casussen](./achtergronddocumentatie/cases.md), [functies](./achtergronddocumentatie/functies.md) en [vragen en besluiten](./achtergronddocumentatie/Vragen%20en%20besluiten.md)) is zoveel mogelijk consistent met het informatiemodel.
