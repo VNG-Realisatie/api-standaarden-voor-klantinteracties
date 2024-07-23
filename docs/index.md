@@ -24,7 +24,7 @@ Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versie-aa
 
 ## Wat hadden we willen doen?
 
-### Problemen bij 1e-gerenatie API-specificaties
+### Bevindingen bij eerste generatie API-specificaties
 
 Het traject dat het materiaal op deze website produceerde, had tot doel API-specificaties te ontwikkelen die een aantal problemen van eerste generatie VNG-API-specificaties wegnemen.
 
