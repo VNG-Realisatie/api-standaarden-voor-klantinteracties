@@ -16,7 +16,7 @@ De op deze website gepubliceerde klantinteractiesmaterialen werden ontwikkeld al
 
 Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository](https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
 
-Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versie-aanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
+Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versieaanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
 
 1. Het [semantisch informatiemodel](./informatiemodel/semantisch_model.md) is ontstaan naar aanleiding van discussie met verschillende gemeenten en leveranciers en in een aantal iteraties verbeterd. Hoewel het model niet in productieomstandigheden is beproefd, denken we dat dit het als basis voor verdere ontwikkelingen bruikbaar is.
 2. Ondersteunde documentatie ([basisterminologie](./basisterminologie.md), [uitgangspunten](./achtergronddocumentatie/uitgangspunten.md), [Casussen](./achtergronddocumentatie/cases.md), [functies](./achtergronddocumentatie/functies.md) en [vragen en besluiten](./achtergronddocumentatie/Vragen%20en%20besluiten.md)) is zoveel mogelijk consistent met het informatiemodel.
@@ -43,13 +43,13 @@ De hypothese was dat handelingsgedreven bijhoudings-API's de bijhoudingsissues k
 
 Consistentie tussen in het register opgeslagen gegevens kan worden gewaarborgd door één handeling in één transactie te registeren. En de geregistreerde 'handeling' kan dienen als basis voor betekenisvolle notificaties die door andere systemen kunnen worden verwerkt. Een [eerste verkenning](./api_familie_klantinteracties/klantinteracties.md#handelingsgedreven-bijhoudings-api) laat zien hoe API-specificaties volgens dit patroon eruit zouden kunnen zien.
 
-Voor het oplossen van de problemen bij levering van gegevens was gedacht aan informatieproductgebaseerde bevragings-API's. Deze zouden, mogelijk gebaseerd op een los van het bijhoudingsmodel staand 'leesmodel' ([CQRS-patroon](https://martinfowler.com/bliki/CQRS.html) en gebruikmakend van een specifiek voor dit doel geschikte API-stijl zoals [GraphQL](https://graphql.org/)) bij de gebruiksbehoefte van afnemers aansluitende 'afgepaste' gegevenssets moeten leveren.
+Voor het oplossen van de problemen bij levering van gegevens was gedacht aan informatieproductgebaseerde bevragings-API's. Deze zouden, mogelijk gebaseerd op een los van het bijhoudingsmodel staand 'leesmodel' ([CQRS-patroon](https://martinfowler.com/bliki/CQRS.html)) en gebruikmakend van een specifiek voor dit doel geschikte API-stijl (zoals [GraphQL](https://graphql.org/)), bij de gebruiksbehoefte van afnemers aansluitende 'afgepaste' gegevenssets moeten leveren.
 
 ### Modelconcepten specificeren en concretiseren
 
-De hierboven beschreven oplossingsrichtingen betekenen nadrukkelijk dat het de bedoeling was in het informatiemodel 'geabstraheerde' concepten voor de buitenwereld op in een meer concrete vorm zichtbaar te maken. Om redenen van bondigheid, flexibel gebruik en (model)stabiliteit extreem generiek beschreven objecttype als 'digitaal adres' zou in een API-interface dus 'gewoon' als telefoonnummer of e-mailadres gepresenteerd kunnen worden.
+De hierboven beschreven oplossingsrichtingen betekenen dat het nadrukkelijk de bedoeling was in het informatiemodel 'geabstraheerde' concepten voor de buitenwereld op in een meer concrete vorm zichtbaar te maken. Om redenen van bondigheid, flexibel gebruik en (model)stabiliteit extreem generiek beschreven objecttype als 'digitaal adres' zou in een API-interface dus 'gewoon' als telefoonnummer of e-mailadres gepresenteerd kunnen worden. Hetzelfde geldt voor concepten als 'productaanvraag' of 'verzoek', waarvoor in een interface niet zichtbaar hoeft te zijn dat ze als klantcontact met één of meerdere bijlagen gepersisteerd worden.
 
-Hetzelfde geldt voor concepten als 'productaanvraag' of 'verzoek', waarvoor in een interface niet zichtbaar hoeft te zijn dat ze als klantcontact met één of meerdere bijlagen gepersisteerd worden. De afbeelding hieronder laat de niet helemaal afgelopen route zien van concrete, (doel)specifieke en veranderlijke use cases via een abstract, generiek en stabiel informatiemodel naar weer concrete, (doel)specifieke en veranderlijke API-specificaties.
+De afbeelding hieronder laat de niet helemaal afgelopen route zien van concrete, (doel)specifieke en veranderlijke use cases via een abstract, generiek en stabiel informatiemodel naar weer concrete, (doel)specifieke en veranderlijke API-specificaties.
 
 <img src="./assets/ontwikkelvoornemen-klantinteracties.png" alt="Voornemen voor ontwikkeling Klantinteracties met indicatie waar ontwikkeling is gestopt." width="70%"/>
 
