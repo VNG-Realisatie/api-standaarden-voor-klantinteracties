@@ -43,7 +43,7 @@ De hypothese was dat handelingsgedreven bijhoudings-API's de bijhoudingsissues k
 
 Consistentie tussen in het register opgeslagen gegevens kan worden gewaarborgd door één handeling in één transactie te registeren. En de geregistreerde 'handeling' kan dienen als basis voor betekenisvolle notificaties die door andere systemen kunnen worden verwerkt. Een [eerste verkenning](./api_familie_klantinteracties/klantinteracties.md#handelingsgedreven-bijhoudings-api) laat zien hoe API-specificaties volgens dit patroon eruit zouden kunnen zien.
 
-Voor het oplossen van de problemen bij levering van gegevens was gedacht aan informatieproductgebaseerde bevragings-API's. Deze zouden, mogelijk gebaseerd op een los van het bijhoudingsmodel staand 'leesmodel' ([CQRS-patroon](https://martinfowler.com/bliki/CQRS.html) en gebruikmakend van een specifiek voor dit doel geschikte API-stijl zoals [GraphQL](https://graphql.org/)) bij de gebruiksbehoefte van afnemers aansluitende 'afgepaste' gegevenssets moeten leveren.
+Voor het oplossen van de problemen bij levering van gegevens was gedacht aan informatieproductgebaseerde bevragings-API's. Deze zouden, mogelijk gebaseerd op een los van het bijhoudingsmodel staand 'leesmodel' ([CQRS-patroon](https://martinfowler.com/bliki/CQRS.html)) en gebruikmakend van een specifiek voor dit doel geschikte API-stijl (zoals [GraphQL](https://graphql.org/)), bij de gebruiksbehoefte van afnemers aansluitende 'afgepaste' gegevenssets moeten leveren.
 
 ### Modelconcepten specificeren en concretiseren
 
