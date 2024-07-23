@@ -8,7 +8,7 @@ De materialen in deze repository deze website zijn **niet** als standaard vastge
 
 De op deze website gepubliceerde klantinteractiesmaterialen werden ontwikkeld als onderdeel van een onderzoekstraject naar nieuwe patronen voor API-specificaties. Het was de bedoeling dit traject af te ronden met een praktijkbeproeving van deze patronen aan de hand van de klantinteracties-casus. Uiteindelijk bleek het voor zo'n toets in praktijkomstandigheden te vroeg.
 
-Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository])(https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
+Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en op de [GitHub-pages website](https://vng-realisatie.github.io/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
 
 Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versie-aanduiding te verdienen. Evengoed kennen individuele klantinteractiesonderdelen een verschillende mate van volwassenheid:
 
