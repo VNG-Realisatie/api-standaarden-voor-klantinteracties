@@ -1,5 +1,5 @@
 baseurl: "/klantinteracties"
-apiname: "API-standaarden voor Klantinteracties"
+apiname: "Klantinteracties"
 url: "http://localhost:4000"
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
@@ -60,6 +60,6 @@ theme: jekyll-theme-time-machine
 
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
-project_name: API-standaarden voor Klantinteracties
+project_name: Klantinteracties
 
 standard_family: nvt
