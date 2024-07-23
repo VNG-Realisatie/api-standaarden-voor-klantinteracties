@@ -27,7 +27,7 @@ nav:
 #        path: /informatiemodel/uitwisselingsmodel
       - title: Gegevenswoordenboek
         path: /informatiemodel/gegevenswoordenboek
-  - title: API-familie Klantinteractie
+  - title: API-familie Klantinteracties
     subnav:
       - title: Verkenning specificaties
         path: /api_familie_klantinteracties/klantinteracties
