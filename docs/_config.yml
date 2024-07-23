@@ -21,8 +21,8 @@ nav:
     subnav:
       - title: Basisterminologie
         path: /basisterminologie
-      - title: Semantisch model (SIM)
-        path: /informatiemodel/semantisch_model
+      - title: Conceptueel model (CIM)
+        path: /informatiemodel/conceptueel_model
 #      - title: Uitwisselingsmodel (UGM)
 #        path: /informatiemodel/uitwisselingsmodel
       - title: Gegevenswoordenboek

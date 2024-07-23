@@ -1,19 +1,20 @@
 ---
 layout: page-with-side-nav
-title: Semantisch informatiemodel wijzigingen historie.
+title: Conceptueel informatiemodel wijzigingshistorie
 date: 19-10-2023
 ---
 
-# Semantisch informatiemodel: Oude versies
+# Conceptueel informatiemodel: oude versies
 
 ## Modellering in Enterprise Architect
-Binnen VNG Realisatie wordt Enterprise Architect (EA) gebruikt voor de vastlegging van semantische informatiemodellen (SIM). 
-Onderstaand zijn de diagrammen van de oude versies van het infromatiemodel weergegeven en zijn de wijzigingen opgesomd die in het nieuwe model zijn doorgevoerd. 
+Binnen VNG Realisatie wordt Enterprise Architect (EA) gebruikt voor de vastlegging van conceptuele informatiemodellen (CIM). Onderstaande figuur geeft het CIM weer zoals dit in EA is gemodelleerd.
+
+Onderstaand zijn eerdere versies van het informatiemodel weergegeven. Bovendien zijn per versie de doorgevoerde wijzigingen genoemd. 
 
 ## Van versie 0.0.5 naar 0.0.6 (19-10-2023)
-Onderstaand figuur geeft de modellering van het SIM versie 0.0.5 weer zoals deze in EA was gemodelleerd.
+Onderstaand figuur geeft de modellering van het CIM versie 0.0.5 weer zoals deze in EA was gemodelleerd.
 
-<img src="assets/SIM_Klantinteracties_v005.png" alt="SIM in Enterprise Architect" width="1000"/>
+<img src="assets/SIM_Klantinteracties_v005.png" alt="CIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.6 zijn doorgevoerd t.o.v. deze versie zijn: 
   - Het *inhoudsobject* is hernoemd naar *bijlage* .
@@ -34,9 +35,9 @@ De wijzigingen die in versie 0.0.6 zijn doorgevoerd t.o.v. deze versie zijn:
 
 
 ## Van versie 0.0.4 naar 0.0.5 (11-10-2023)
-Onderstaand figuur geeft de modellering van het SIM versie 0.0.4 weer zoals deze in EA was gemodelleerd.
+Onderstaand figuur geeft de modellering van het CIM versie 0.0.4 weer zoals deze in EA was gemodelleerd.
 
-<img src="assets/SIM_Klantinteracties_v004.png" alt="SIM in Enterprise Architect" width="1000"/>
+<img src="assets/SIM_Klantinteracties_v004.png" alt="CIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.5 zijn doorgevoerd t.o.v. deze versie zijn: 
   - Identificatoren van voorkomens van een objecttype in een ander register zijn verder uitgewerkt en overal op dezelfde wijze toegepast.
@@ -54,9 +55,9 @@ De wijzigingen die in versie 0.0.5 zijn doorgevoerd t.o.v. deze versie zijn:
   - Enkele definities van relaties zijn aangepast.
 
 ## Van versie 0.0.3 naar 0.0.4 (05-10-2023)
-Onderstaand figuur geeft de modellering van het SIM versie 0.0.3 weer zoals deze in EA was gemodelleerd.
+Onderstaand figuur geeft de modellering van het CIM versie 0.0.3 weer zoals deze in EA was gemodelleerd.
 
-<img src="assets/SIM_Klantinteracties_v003.png" alt="SIM in Enterprise Architect" width="1000"/>
+<img src="assets/SIM_Klantinteracties_v003.png" alt="CIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.4 zijn doorgevoerd t.o.v. deze versie zijn: 
   - Primitief datatype Tekst (1000 karakters) toegevoegd
@@ -73,9 +74,9 @@ De wijzigingen die in versie 0.0.4 zijn doorgevoerd t.o.v. deze versie zijn:
 
 
 ## Van versie 0.0.2 naar 0.0.3
-Onderstaand figuur geeft de modellering van het SIM versie 0.0.2 weer zoals deze in EA was gemodelleerd.
+Onderstaand figuur geeft de modellering van het CIM versie 0.0.2 weer zoals deze in EA was gemodelleerd.
 
-<img src="assets/SIM_Klantinteracties_v002.png" alt="SIM in Enterprise Architect" width="1000"/>
+<img src="assets/SIM_Klantinteracties_v002.png" alt="CIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.3 zijn doorgevoerd t.o.v. deze versie zijn: 
   -	De definities en de MIM-egenschappen "Herkomst" en "Herkomst Definitie" zijn gecorrigeerd.
@@ -143,9 +144,9 @@ De wijzigingen die in versie 0.0.3 zijn doorgevoerd t.o.v. deze versie zijn:
   - Legenda toegevoegd
 
 ## Van versie 0.0.1 naar 0.0.2
-Onderstaand figuur geeft de modellering van het SIM versie 0.0.1 weer zoals deze in EA was gemodelleerd.
+Onderstaand figuur geeft de modellering van het CIM versie 0.0.1 weer zoals deze in EA was gemodelleerd.
 
-<img src="assets/SIM_Klantinteracties_v001.png" alt="SIM in Enterprise Architect" width="1000"/>
+<img src="assets/SIM_Klantinteracties_v001.png" alt="CIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.2 zijn doorgevoerd t.o.v. deze versie zijn: 
   -	Alle objecten hebben een ID gekregen.
