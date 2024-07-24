@@ -11,10 +11,10 @@ nav:
     subnav:
       - title: Home
         path: /
+      - title: Project
+        path: /project
       - title: Productvisie
         path: /productvisie
-#     - title: Quickstart
-#       path: /quickstart
 #     - title: Architectuur
 #       path: /architectuur
   - title: Informatiemodel
