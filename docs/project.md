@@ -12,11 +12,11 @@ Informatie over het Klantinteracties-ontwikkelproject.
 
 De op deze website gepubliceerde klantinteractiesmaterialen werden ontwikkeld als onderdeel van een onderzoekstraject naar nieuwe patronen voor API-specificaties. Het was de bedoeling dit traject af te ronden met een praktijkbeproeving van deze patronen aan de hand van de klantinteracties-casus. Daaruit zou later eventueel een gemeentelijke standaard kunnen ontstaan. Uiteindelijk bleek het voor zo'n toets in praktijkomstandigheden te vroeg.
 
-Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository])(https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
+Op dit moment (juli 2024) hebben andere vraagstukken prioriteit, waardoor er niet aan klantinteracties gewerkt kan worden. Het hier en in de [GitHub-repository](https://github.com/VNG-Realisatie/klantinteracties/) gepubliceerde materiaal geldt derhalve als halfproduct, dat 'as is, where is' onder de voorwaarden van de [EUPL](https://eupl.eu/1.2/nl/) te gebruiken is.
 
-### Wat hadden we willen doen?
+### Uitgangspunten en voornemens
 
-#### Bevindingen bij eerste generatie API-specificaties
+#### Issues bij eerste generatie API-specificaties
 
 Het traject dat het materiaal op deze website produceerde, had tot doel API-specificaties te ontwikkelen die een aantal problemen van eerste generatie VNG-API-specificaties wegnemen.
 
@@ -45,7 +45,7 @@ De afbeelding hieronder laat de niet helemaal afgelopen route zien van concrete,
 
 <img src="./assets/ontwikkelvoornemen-klantinteracties.png" alt="Voornemen voor ontwikkeling Klantinteracties met indicatie waar ontwikkeling is gestopt." width="70%"/>
 
-### Ontwikkelupdate 20 april 2023
+## Ontwikkelupdate 20 april 2023
 
 Benieuwd naar de stand van zaken? Bekijk [deel 1](./assets/project/20230420-toelichting-inzichten-klantinteracties-deel-1.pdf) en [deel 2](./assets/project/20230420-toelichting-inzichten-klantinteracties-deel-2.pdf) van de tijdens de laatste ontwikkelbijeenkomst op donderdag 20 april getoonde presentatie.
 
