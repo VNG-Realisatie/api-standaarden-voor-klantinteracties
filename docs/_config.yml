@@ -27,9 +27,9 @@ nav:
 #        path: /informatiemodel/uitwisselingsmodel
       - title: Gegevenswoordenboek
         path: /informatiemodel/gegevenswoordenboek
-  - title: API-familie Klantinteracties
+  - title: Verkenning specificaties
     subnav:
-      - title: Verkenning specificaties
+      - title: API-ontwerppatronen
         path: /api_familie_klantinteracties/klantinteracties
   - title: Achtergronddocumentatie
     subnav: 
@@ -41,10 +41,12 @@ nav:
         path: /achtergronddocumentatie/functies
       - title: Vragen en besluiten
         path: /achtergronddocumentatie/Vragen en besluiten    
-  - title: Vraag en Antwoord
+  - title: Over
     subnav:
 #      - title: Veelgestelde vragen
 #        path: /veelgesteldevragen
+      - title: Ontwikkeling 
+        path: /ontwikkeling
       - title: Contact 
         path: /contact
 

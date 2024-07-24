@@ -4,7 +4,7 @@ title: Projectinformatie
 date: 24-07-2024
 ---
 
-# Project
+# Ontwikkeling
 
 Informatie over het Klantinteracties-ontwikkelproject.
 
