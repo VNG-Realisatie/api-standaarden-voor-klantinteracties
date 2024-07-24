@@ -14,7 +14,7 @@ nav:
       - title: Productvisie
         path: /productvisie
       - title: Architectuur
-        path: /architectuur
+        path: /architectuur/architectuur
   - title: Informatiemodel
     subnav:
       - title: Basisterminologie
