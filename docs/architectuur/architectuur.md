@@ -1,7 +1,7 @@
 ---
 layout: page-with-side-nav
-title: Architectuur API-standaarden voor Klantinteracties
-date: 02-06-2022
+title: Architectuur Klantinteracties
+date: 24-07-2024
 ---
 
 # Architectuur

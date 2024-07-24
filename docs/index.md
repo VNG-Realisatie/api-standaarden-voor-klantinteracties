@@ -22,7 +22,7 @@ Géén van de onderdelen hieronder is voldoende gevalideerd om een 1.0-versieaan
 2. Ondersteunde documentatie ([basisterminologie](./basisterminologie.md), [uitgangspunten](./achtergronddocumentatie/uitgangspunten.md), [casussen](./achtergronddocumentatie/cases.md), [functies](./achtergronddocumentatie/functies.md) en [vragen en besluiten](./achtergronddocumentatie/Vragen%20en%20besluiten.md)) is zoveel mogelijk consistent met het informatiemodel.
 3. De [API-specificaties](./api_familie_klantinteracties/klantinteracties.md) zijn gemaakt om te laten zien hoe het model volgens verschillende API-ontwerppatronen naar specificaties zou kunnen worden vertaald. Deze specificaties zijn *niet* ontwikkeld voor praktijkgebruik, en kunnen dus *alleen* gebruikt worden als inspiratiebron bij ontwikkeling.
 
-Uitgangspunten die bij ontwikkeling van API-specificaties voor Klantinteracties gevolgd kunnen worden, zijn beschreven onder ['architectuur'](./architectuur/architectuur.md).
+Uitgangspunten die bij ontwikkeling van API-specificaties voor Klantinteracties kunnen worden gevolgd zijn beschreven onder ['architectuur'](./architectuur/architectuur.md).
 
 ## Beheer en ondersteuning
 

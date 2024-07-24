@@ -1,7 +1,7 @@
 ---
 layout: page-with-side-nav
 title: Productvisie Klantinteracties
-date: 18-04-2023
+date: 24-07-2024
 ---
 
 # Productvisie Klantinteracties
