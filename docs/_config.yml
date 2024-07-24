@@ -11,8 +11,6 @@ nav:
     subnav:
       - title: Home
         path: /
-      - title: Project
-        path: /project
       - title: Productvisie
         path: /productvisie
 #     - title: Architectuur
